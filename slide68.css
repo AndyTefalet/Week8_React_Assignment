@@ -1,0 +1,16 @@
+button {
+  background-color: #00FF00;
+  color: #FF0000;
+  font-size: 18pt;
+  margin: 10px;
+  border-radius: 8px; /* השינוי החמישי שהוספנו */
+}
+#danger-btn {
+  background-color: #ff00ae;
+}
+#number-one {
+  color: aqua;
+}
+.green-bg {
+  background-color: #000000;
+}
